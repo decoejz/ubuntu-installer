@@ -13,3 +13,5 @@ Script to download programs and application that are usefull. Easy to run and in
     > This script list some usefull vs code extensions and install them.
     >
     > It **cannot** be run as **sudo**.
+    >
+    > It is important to say that this is not run automatically with the `init.sh` script. 
